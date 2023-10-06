@@ -6,4 +6,4 @@ I'm Sean, a Computer Science graduate with a passion for coding and creating inn
 - 🌱 I’m passionate about learning and am currently focused on expanding my knowledge in DevOps and AI.
 - 👯 I’m always eager to collaborate on interesting projects and contribute to open-source initiatives.
 - 💬 Ask me about anything related to software development, algorithms, or tech in general.
-- 📫 You can reach me through [LinkedIn]([https://www.linkedin.com/in/sean-parrott/)https://www.linkedin.com/in/sean-parrott])
+- 📫 You can reach me through [LinkedIn]([https://www.linkedin.com/in/sean-parrott/)
